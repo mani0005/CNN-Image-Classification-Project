@@ -5,6 +5,12 @@ This repository includes model training, saving, and inference using a trained C
 
 ---
 
+## DATA SET LINK
+
+- https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
+
+---
+
 ## 📌 Project Overview
 
 This project demonstrates how to:
