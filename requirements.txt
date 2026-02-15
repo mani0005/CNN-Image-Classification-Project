@@ -1,0 +1,10 @@
+tensorflow==2.13.1
+scikit-learn
+numpy
+pillow
+opencv-python
+matplotlib
+
+
+#use --pip install -r requirements.txt-- 
+#to install all the dependencies at once.
