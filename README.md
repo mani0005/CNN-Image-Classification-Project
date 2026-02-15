@@ -48,6 +48,6 @@ conda activate cnn
 pip install -r requirements.txt
 
 
-##To run:
--python main.py
--streamlit run app.py
+## To run:
+- python main.py
+- streamlit run app.py
