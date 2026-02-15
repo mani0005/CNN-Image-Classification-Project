@@ -34,7 +34,7 @@ This project demonstrates how to:
   
 ---
 
-##Environment Setup (Recommended)
+## Environment Setup (Recommended)
 
 Use Conda to create an isolated environment:
 
@@ -43,7 +43,7 @@ conda activate cnn
 
 ---
 
-##Install all required Python packages:
+## Install all required Python packages:
 
 pip install -r requirements.txt
 
